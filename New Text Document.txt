@@ -1,0 +1,3 @@
+So i've done some edits and refactoring. 
+These are substantial changes and I would like to version them with GitHub.
+Let's give it a go!
